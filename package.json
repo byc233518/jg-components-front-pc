@@ -1,10 +1,22 @@
 {
   "name": "jg-components-front-pc",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "main": "lib/jg-components-front-pc.umd.min.js",
   "private": false,
   "license": "MIT",
   "author": "byc233518 <byc233518@gmail.com>",
+  "homepage": "https://github.com/byc233518/jg-components-front-pc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byc233518/jg-components-front-pc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byc233518/jg-components-front-pc/issues"
+  },
+  "keywords": [
+    "jg",
+    "jg-front"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
